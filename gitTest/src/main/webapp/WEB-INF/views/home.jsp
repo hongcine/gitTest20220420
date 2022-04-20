@@ -12,6 +12,8 @@
 <P>  The time on the server is ${serverTime}. </P>
 	
 <h2>git commit</h2>	
+
+<h2> git update </h2>
 	
 </body>
 </html>
